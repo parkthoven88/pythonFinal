@@ -1,0 +1,10 @@
+ 2021-12-08 10:44:19,386 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 10:45:20,449 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 10:46:13,390 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 10:46:46,305 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 10:47:44,314 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 10:49:39,584 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 11:16:43,999 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 11:19:12,629 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 11:31:09,829 -  CRITICAL -  Missing functions.py!
+ 2021-12-08 11:32:50,727 -  CRITICAL -  Missing functions.py!
